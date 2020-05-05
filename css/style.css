@@ -62,16 +62,58 @@ header {
 
 /*-----------------------------------------------header media changes*/
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 625px) {
     .logo {
         display: none;
     }
     .first-nav ul {
-        padding: 5px 0px 5px 0px;
+        padding: 15px 0px 15px 0px;
     }
 
     .first-nav li {
         display: block;
         text-align: left;
+        padding-top: 5px;
+        padding-bottom: 5px;
     }
 }
+
+
+/*--------------------------------------------------footer*/
+
+footer {
+    background-color: #F2AA4CFF;
+    min-height: 120px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #fafafa;
+   
+}
+footer h3 {
+    text-align:center;
+    margin-top: 60px;
+}
+
+footer  .footer-links{
+    color:#fafafa;
+    text-decoration: none;
+    margin-top: 60px;
+    
+}
+
+
+.footer-links:hover {
+    background-color: #fafafa;
+    color: #F2AA4CFF;
+    text-decoration-line: none;
+     height:200px;
+    width: 200px;
+    border-radius: 50%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    -o-transition: 0.3s;
+  -ms-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -webkit-transition: 0.3s;
+  transition: 1s;
+}
+
