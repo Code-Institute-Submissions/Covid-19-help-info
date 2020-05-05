@@ -10,13 +10,14 @@ header {
    width: 150px;
    border-radius: 50%; 
    margin: 10px 0px 20px 50px;
-   
+
 }
+
 
 /*-------------------------------------------navbar*/
 .first-nav ul {
     text-align:center;
-    padding: 60px 20px 0px 20px;
+    padding: 60px 0px 0px 0px;
     margin:0;
     float: center;
 }
@@ -31,6 +32,7 @@ header {
 .first-nav a {
     color: #fafafa;
     font-family: 'Josefin Sans', sans-serif;
+    
 }
 
 .first-nav .bubble-transition:hover {
@@ -48,10 +50,28 @@ header {
   -webkit-transition: 0.3s;
   transition: 1s;
   
+  
 }
 
 .first-nav a:hover {
      background-color:#fafafa;
     color: #F2AA4CFF;
     text-decoration-line: none;
+}
+
+
+/*-----------------------------------------------header media changes*/
+
+@media screen and (max-width: 768px) {
+    .logo {
+        display: none;
+    }
+    .first-nav ul {
+        padding: 5px 0px 5px 0px;
+    }
+
+    .first-nav li {
+        display: block;
+        text-align: left;
+    }
 }
