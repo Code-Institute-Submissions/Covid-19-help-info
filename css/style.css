@@ -79,6 +79,13 @@ header {
 }
 
 
+@media screen and (max-width: 777px) {
+    .logo {
+        display: none;
+    }
+}
+
+
 /*--------------------------------------------------footer*/
 
 footer {
@@ -86,6 +93,7 @@ footer {
     min-height: 120px;
     font-family: 'Josefin Sans', sans-serif;
     color: #fafafa;
+    
    
 }
 footer h3 {
@@ -134,9 +142,9 @@ footer  .footer-links{
     }
 }
 
-/*--------------------------------------------------landing page content*/
+/*--------------------------------------------------common for all pages*/
 
-.home-margins h1 {
+ h1 {
     text-transform: uppercase;
     padding: 50px 0px;
     font-family: 'Josefin Sans', sans-serif;
@@ -152,8 +160,60 @@ footer  .footer-links{
     
 }
 
+.key-words {
+    color: #F2AA4CFF;
+    font-weight: 600;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+
+/*--------------------------------------------------landing page content*/
+
 .home-margins p {
     padding-bottom: 50px;
     text-align: left;
 }
 
+.home-margins ul {
+    text-align: left; 
+}
+
+ .key-words {
+    color: #F2AA4CFF;
+    font-weight: 600;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#bottom-article{
+    padding-bottom: 100px;
+}
+
+
+
+/*--------------------------------------------------banner*/
+
+#banner {
+    text-align: center;
+    background-color: #F2AA4CFF;
+    margin: 30px 200px;
+    color: #fafafa;
+    padding-bottom: 10px;
+    
+}
+
+#banner h1 {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    color: #fafafa;
+
+}
+@media screen and (max-width: 678px) {
+    #banner {
+        margin:0;
+        background-color: #fafafa;
+        color: #F2AA4CFF;
+    }
+    #banner h1 {
+        color: #F2AA4CFF;
+    }
+}
