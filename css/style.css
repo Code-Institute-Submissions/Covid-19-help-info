@@ -117,3 +117,42 @@ footer  .footer-links{
   transition: 1s;
 }
 
+/*--------------------------------------------------margins, padding etc*/
+
+.home-margins {
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: center;
+    
+}
+
+@media screen and (max-width: 625px) {
+    .home-margins  {
+       margin-left: 5px;
+       margin-right: 5px;
+        text-align: center;
+    }
+}
+
+/*--------------------------------------------------landing page content*/
+
+.home-margins h1 {
+    text-transform: uppercase;
+    padding: 50px 0px;
+    font-family: 'Josefin san', sans-serif;
+    font-weight: 800;
+    color: #F2AA4CFF;
+    text-decoration: underline;
+
+}
+
+.top-border {
+    border-top: 3px solid #F2AA4CFF;
+    padding-top: 10px;
+    
+}
+
+.home-margins p {
+    padding-bottom: 50px;
+}
+
