@@ -6,26 +6,25 @@ header {
 }
 
 .logo {
-   height: 150px;
-   width: 150px;
+   height: 100px;
+   width: 100px;
    border-radius: 50%; 
-   margin: 10px 0px 20px 50px;
+   margin: 10px 50px 10px 50px;
 
 }
 
 
 /*-------------------------------------------navbar*/
 .first-nav ul {
-    text-align:center;
-    padding: 60px 0px 0px 0px;
-    margin:0;
-    float: center;
+    text-align:left;
+    padding: 30px 0px 0px 0px;  
+    margin-left:30px;
 }
 
 .first-nav  li{
   display:  inline-block;
   font-size: 40px;
-  padding-left: 30px;
+  padding-left: 20px;
   padding-right: 30px;
 }
 
@@ -39,11 +38,8 @@ header {
      background-color: #fafafa;
     color: #F2AA4CFF;
     text-decoration-line: none;
-    height:200px;
-    width: 200px;
-    border-radius: 50%;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    border-radius: 10px;
+    padding: 5px 0px;
     -o-transition: 0.3s;
   -ms-transition: 0.3s;
   -moz-transition: 0.3s;
@@ -113,11 +109,8 @@ footer  .footer-links{
     background-color: #fafafa;
     color: #F2AA4CFF;
     text-decoration-line: none;
-     height:200px;
-    width: 200px;
-    border-radius: 50%;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    border-radius: 10px;
+    padding: 5px 0px;
     -o-transition: 0.3s;
   -ms-transition: 0.3s;
   -moz-transition: 0.3s;
