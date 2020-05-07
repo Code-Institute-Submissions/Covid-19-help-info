@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
      <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,700&display=swap" rel="stylesheet">
      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="css/style.css" type="text/css">
@@ -12,20 +12,29 @@
 </head>
 <body>
 <header>
-    <div class="row no-gutters">
-        <div class="col-md-2 ">
-            <img src="images/community-call-booklet.png" alt="Community call image" class="logo">
-        </div>
-          <nav class="first-nav col-md-10 ">
-                <ul>
-                    <li><a href="index.html" class="bubble-transition">Home</a></li>
-                    <li><a href="advice.html" class="bubble-transition">Advice</a></li>
-                    <li><a href="support.html" class="bubble-transition">Support</a></li>
-                    <li><a href="contact.html" class="bubble-transition">Contact Info</a></li>
-                
-                </ul>
-          </nav>
-    </div>
+      
+            <div class="row no-gutters">
+                <div class="col-md-2 ">
+                    <img src="images/community-call-booklet.png" alt="Community call image" class="logo">
+                </div>
+                <nav class="overall-nav first-nav col-md-10">
+                        <ul>
+                            <li><a href="index.html" class="bubble-transition">Home</a></li>
+                            <li><a href="advice.html" class="bubble-transition">Advice</a></li>
+                            <li><a href="support.html" class="bubble-transition">Support</a></li>
+                            <li><a href="contact.html" class="bubble-transition">Contact Info</a></li>
+                        </ul>
+                </nav>
+            </div>  
+                         <nav class="overall-nav" >
+                                    <ul id="mobile-only">
+                                        <li ><a href="index.html" >Home</a></li>
+                                        <li><a href="advice.html">Advice</a></li>
+                                        <li><a href="support.html">Support</a></li>
+                                        <li><a href="contact.html">Contact Info</a></li>
+                                    </ul>
+                        </nav>
+               
 </header>
 
 <section class="home-margins">

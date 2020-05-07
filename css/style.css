@@ -15,26 +15,30 @@ header {
 
 
 /*-------------------------------------------navbar*/
-.first-nav ul {
+#mobile-only {
+     display: none;
+     }
+
+.overall-nav ul {
     text-align:left;
     padding: 30px 0px 0px 0px;  
     margin-left:30px;
 }
 
-.first-nav  li{
+.overall-nav  li{
   display:  inline-block;
   font-size: 40px;
   padding-left: 20px;
   padding-right: 30px;
 }
 
-.first-nav a {
+.overall-nav a {
     color: #fafafa;
     font-family: 'Josefin Sans', sans-serif;
     
 }
 
-.first-nav .bubble-transition:hover {
+.overall-nav .bubble-transition:hover {
      background-color: #fafafa;
     color: #F2AA4CFF;
     text-decoration-line: none;
@@ -49,7 +53,7 @@ header {
   
 }
 
-.first-nav a:hover {
+.overall-nav a:hover {
      background-color:#fafafa;
     color: #F2AA4CFF;
     text-decoration-line: none;
@@ -58,28 +62,32 @@ header {
 
 /*-----------------------------------------------header media changes*/
 
-@media screen and (max-width: 625px) {
-    .logo {
-        display: none;
-    }
-    .first-nav ul {
-        padding: 15px 0px 15px 0px;
-    }
-
-    .first-nav li {
-        display: block;
-        text-align: left;
-        padding-top: 5px;
-        padding-bottom: 5px;
-    }
-}
-
-
 @media screen and (max-width: 777px) {
     .logo {
         display: none;
     }
+    
+    .overall-nav li {
+          font-size: 20px;
+          padding: 0% 2%;
+          text-align: center;
+      }
+    
 }
+
+  @media screen and  (max-width : 489px){ 
+      #mobile-only {
+          display:block;  
+      }
+      .overall-nav li {
+          font-size: 15px;
+          padding: 0% 2%;
+      }
+      
+      .first-nav ul {
+        display: none;
+    }
+  }
 
 
 /*--------------------------------------------------footer*/
