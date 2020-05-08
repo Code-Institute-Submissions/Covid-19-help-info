@@ -105,6 +105,10 @@ footer h3 {
     margin-top: 60px;
 }
 
+.reminder-message {
+     padding-bottom: 60px;
+}
+
 footer  .footer-links{
     color:#fafafa;
     text-decoration: none;
@@ -125,6 +129,7 @@ footer  .footer-links{
   -webkit-transition: 0.3s;
   transition: 1s;
 }
+
 
 /*--------------------------------------------------margins, padding etc*/
 
