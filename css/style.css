@@ -130,6 +130,18 @@ footer  .footer-links{
   transition: 1s;
 }
 
+/*--------------------------------------------------footer media changes*/
+
+@media screen and (max-width:489px){
+    footer {
+        padding-bottom: 60px;
+    }
+    
+    .reminder-message {
+        padding-bottom: 20px;
+    }
+}
+
 
 /*--------------------------------------------------margins, padding etc*/
 
@@ -231,11 +243,11 @@ footer  .footer-links{
 @media screen and (max-width: 678px) {
     #banner {
         margin:5%;
-        background-color: #fafafa;
-        color: #F2AA4CFF;
+        background-color: #f2eb26;
+        color: black;
     }
     #banner h1 {
-        color: #F2AA4CFF;
+        color: black;
     }
 }
 /*--------------------------------------------------images and instructions washing hands*/
@@ -243,6 +255,12 @@ footer  .footer-links{
 
 #washing-hands {
     padding: 10px 100px;
+}
+
+@media screen and (max-width:489px){
+    #washing-hands {
+        padding: 10px 30px;
+    }
 }
 /*--------------------------------------------------Do's and Don'ts list*/
 
