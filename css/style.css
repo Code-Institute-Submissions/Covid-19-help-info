@@ -165,6 +165,10 @@ footer  .footer-links{
     margin-right: 5%;
 }
 
+.margin-lists {
+    margin-bottom: 10%;
+}
+
 /*--------------------------------------------------common for all pages*/
 
  h1 {
@@ -265,7 +269,7 @@ footer  .footer-links{
 /*--------------------------------------------------Do's and Don'ts list*/
 
 .list-advice {
-    margins: 30% 10%;
+    margin:5% 0%;
     
 }
 
