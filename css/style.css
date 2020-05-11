@@ -115,6 +115,13 @@ header {
     margin-bottom: 10%;
 }
 
+.question-margins {
+    margin: 15% 15%;
+}
+.contact-info-lead {
+    margin: 5% 15% 15% 15%;
+}
+
 /*--------------------------------------------------common for all pages*/
 
  h1 {
@@ -251,6 +258,41 @@ header {
     margin: 0 auto;
 }
 
+/*--------------------------------------------------Contact page and Button*/
+
+.center-header {
+    text-align: center;
+}
+.button-style {
+    background-color: #F2AA4CFF;
+    color: #fafafa;
+    font-family: 'Josefin Sans', sans-serif;
+    text-transform: uppercase;
+    margin: 20px 35%;
+    border-radius: 10px;
+    padding: 5px 5px;
+}
+
+.button-style:hover {
+    background-color: #fafafa;
+    color: #F2AA4CFF;
+    border-color:#F2AA4CFF;
+    text-decoration-line: none;
+    border-radius: 10px;
+    -o-transition: 0.3s;
+  -ms-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -webkit-transition: 0.3s;
+  transition: 1s;
+}
+
+.question-style {
+    margin-bottom: 5px;
+}
+#ireland-image {
+    height: 300px;
+    width: 300px;
+}
 
 /*--------------------------------------------------footer*/
 
