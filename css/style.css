@@ -303,16 +303,22 @@ h1 .question-header {
     padding: 10px 0px;
 }
 
+#ireland-image {
+    height: 300px;
+    width: 300px;
+    background-size:contain;
+}
+
 .province-links {
     margin-top: 40px;
 }
-.province-links li a {
+.province-links a {
     color: #F2AA4CFF;
     font-weight: 600;
     font-family: 'Josefin Sans', sans-serif;
 }
 
-.province-links li a:hover {
+.province-links a:hover {
     background-color: #F2AA4CFF;
     color: #fafafa;
     text-decoration-line: none;
@@ -351,9 +357,31 @@ h1 .question-header {
 .question-style {
     margin-bottom: 5px;
 }
-#ireland-image {
-    height: 300px;
-    width: 300px;
+#connacht {
+    position: absolute;
+    left:25%; 
+    top: 20%;
+    
+}
+#munster {
+    position: absolute;
+    left:42%;
+    top:60%;
+    transform: translateY(-50%) translateX(-50%);
+}
+#dublin {
+    position: absolute;
+    top: 32%;
+    right: 38%;
+}
+#leinster {
+    position: absolute;
+    top: 50%;
+    right:40%;
+}
+.container-ireland {
+    position: relative;
+    text-align:center;
 }
 
 /*--------------------------------------------------footer*/
