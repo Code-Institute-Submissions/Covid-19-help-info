@@ -85,7 +85,7 @@ header {
 }
 
 .support-margins {
-    margin:20% 10% 20% 10%;
+    margin:12% 10% 20% 10%;
 }
 
 /*--------------------------------------------------common for all pages*/
@@ -256,14 +256,71 @@ h1 .question-header {
     margin-top: 40px;
 }
 
-.province-links a {
-    color: #F2AA4CFF;
+#connacht a{
+    color: rgb(0, 102, 255);
     font-weight: 600;
     font-family: 'Josefin Sans', sans-serif;
 }
 
-.province-links a:hover {
-    background-color: #F2AA4CFF;
+#connacht a:hover {
+    background-color: rgb(0, 102, 255);
+    color: #fafafa;
+    text-decoration-line: none;
+    border-radius: 10px;
+    padding: 5px 0px;
+    -o-transition: 0.3s;
+  -ms-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -webkit-transition: 0.3s;
+  transition: 1s;
+}
+
+#munster a{
+    color: rgb(255, 208, 0);
+    font-weight: 600;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#munster a:hover {
+    background-color: rgb(255, 208, 0);
+    color: #fafafa;
+    text-decoration-line: none;
+    border-radius: 10px;
+    padding: 5px 0px;
+    -o-transition: 0.3s;
+  -ms-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -webkit-transition: 0.3s;
+  transition: 1s;
+}
+
+#dublin a{
+    color: rgb(250, 102, 102);
+    font-weight: 600;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#dublin a:hover {
+    background-color: rgb(250, 102, 102);
+    color: #fafafa;
+    text-decoration-line: none;
+    border-radius: 10px;
+    padding: 5px 0px;
+    -o-transition: 0.3s;
+  -ms-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -webkit-transition: 0.3s;
+  transition: 1s;
+}
+
+#leinster a{
+    color: rgba(201, 33, 33, 0.719);
+    font-weight: 600;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#leinster a:hover {
+    background-color: rgba(201, 33, 33, 0.719);
     color: #fafafa;
     text-decoration-line: none;
     border-radius: 10px;
@@ -300,35 +357,6 @@ h1 .question-header {
 
 .question-style {
     margin-bottom: 5px;
-}
-
-#connacht {
-    position: absolute;
-    left:25%; 
-    top: 20%;  
-}
-
-#munster {
-    position: absolute;
-    left:42%;
-    top:60%;
-}
-
-#dublin {
-    position: absolute;
-    top: 32%;
-    right: 38%;
-}
-
-#leinster {
-    position: absolute;
-    top: 50%;
-    right:40%;
-}
-
-.container-ireland {
-    position: relative;
-    text-align:center;
 }
 
 .ireland-info{
