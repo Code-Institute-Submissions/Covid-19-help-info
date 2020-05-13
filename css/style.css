@@ -403,6 +403,14 @@ footer  .footer-links{
 
 /*-----------------------------------------------header media changes*/
 
+@media screen and (max-width: 1050px) {
+    .overall-nav li {
+          font-size: 30px;
+          padding: 0% 2%;
+          text-align: center;
+      }
+}
+
 @media screen and (max-width: 777px) {
     .logo {
         display: none;
@@ -411,8 +419,7 @@ footer  .footer-links{
           font-size: 20px;
           padding: 0% 2%;
           text-align: center;
-      }
-    
+      }  
 }
 
   @media screen and  (max-width : 489px){ 
@@ -422,6 +429,7 @@ footer  .footer-links{
       .overall-nav li {
           font-size: 15px;
           padding: 0% 2%;
+          text-align:center;
       }
       
       .first-nav ul {
@@ -466,5 +474,14 @@ footer  .footer-links{
 @media screen and (max-width:489px){
     #washing-hands {
         padding: 10px 30px;
+    }
+}
+
+/*---------------------------------------------------support page*/
+
+
+@media screen and (max-width:489px){
+    .mobile-heading {
+        font-size: 20px;
     }
 }
