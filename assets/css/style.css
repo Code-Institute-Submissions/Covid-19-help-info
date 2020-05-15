@@ -96,6 +96,7 @@ header {
     display:flex;
 }
 
+
 /*--------------------------------------------------common for all pages*/
 
  h1 {
@@ -151,6 +152,17 @@ header {
     display: none;
 }
 
+.nav-intext:hover {
+    color: #fafafa;
+    background-color: #F2AA4CFF;
+    text-decoration-line: none;
+    border-radius: 10px;
+    -o-transition: 0.3s;
+  -ms-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -webkit-transition: 0.3s;
+  transition: 1s;
+}
 /*--------------------------------------------------banner*/
 
 #banner {
