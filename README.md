@@ -1,5 +1,5 @@
    # Covid-19 Help and Info
-  `<margin:0px 25%>` ![Communtiy call out logo](./assets/images/community-call-booklet.png)
+  ![Communtiy call out logo](./assets/images/community-call-booklet.png)
 
  This is a Covid-19 help and info website which is designed to present information on covid-19 to anybody concerned aboutthe pandemic or
  looking for general advice on how to take care of themselves and others, options on how they can help and even who to contact for more info. 
