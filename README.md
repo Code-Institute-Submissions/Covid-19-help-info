@@ -5,13 +5,18 @@
  looking for general advice on how to take care of themselves and others. A second goal is to provide options on how they can help and even who to contact for more info. 
  The general goal of the website is to increase the safety of the community at large by providing info in a simple and concise way from reputable sources. 
 
+A user would expect to find concise and clear instructions on what to do and what not to do during this pandemic to increase their safety.
+<img scr="./assets/images/user-story-1.png>" alt="advice page content"/>
 
+A user would want to be able to access to helplines and email addresses for their regions
+<img scr="./assets/images/user-story-2a.png>" alt="advice page content"/>
+<img scr="./assets/images/user-story-2b.png>" alt="advice page content"/>
 
  ## Strategy
 The strategy is to help inform the community about the dangers of covid-19, how to take care of themselves as well others and to generally keep people up to date on covid-19. 
 
 ## Scope 
-Below is a breakdown of each page's features and content and wha thte user cna expect to us them for.
+Below is a breakdown of each page's features and content and wha thte user can expect to us them for.
 
 The **landing page** allows the user to get to grips with the layout of the website and explains the different pages anf how they can be of use to the user. The idea is that this will help speed up the user experience especially for people who are not so comfortable with tech. Alos basic info on covid will be provided aswell as a snipit of what the world health organsiation is saying, so just a general overview. 
 
