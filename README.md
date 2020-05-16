@@ -6,11 +6,11 @@
  The general goal of the website is to increase the safety of the community at large by providing info in a simple and concise way from reputable sources. 
 
 A user would expect to find concise and clear instructions on what to do and what not to do during this pandemic to increase their safety.
-<img scr="./assets/images/user-story-1.png>" alt="advice page content"/>
+![advice page](./assets/images/user-story-1.png)
 
-A user would want to be able to access to helplines and email addresses for their regions
-<img scr="./assets/images/user-story-2a.png>" alt="advice page content"/>
-<img scr="./assets/images/user-story-2b.png>" alt="advice page content"/>
+A user would want to be able to access helplines and email addresses for their region. example below is Connacht and Ulster.
+![contact-info page](./assets/images/user-story-2a.png)
+![connacht-ulster link content](./assets/images/user-story-2b.png)
 
  ## Strategy
 The strategy is to help inform the community about the dangers of covid-19, how to take care of themselves as well others and to generally keep people up to date on covid-19. 
