@@ -1,29 +1,33 @@
    # Covid-19 Help and Info
   ![Communtiy call out logo](./assets/images/community-call-booklet.png)
 
- This is a Covid-19 help and info website which is designed to present information on covid-19 to anybody concerned aboutthe pandemic or
- looking for general advice on how to take care of themselves and others, options on how they can help and even who to contact for more info. 
+ This is a Covid-19 help and info website which is designed to present information on covid-19 to anybody concerned about the pandemic or
+ looking for general advice on how to take care of themselves and others. A second goal is to provide options on how they can help and even who to contact for more info. 
  The general goal of the website is to increase the safety of the community at large by providing info in a simple and concise way from reputable sources. 
+
 
 
  ## Strategy
 The strategy is to help inform the community about the dangers of covid-19, how to take care of themselves as well others and to generally keep people up to date on covid-19. 
 
 ## Scope 
-The **landing page** allows the user to get to grips with the layout of the website and explains the different pages and hat they are for to the user. I hope this will help speed up the user experience especially for people who are not so comfortable with tech. Alos basic info on covid will be provided aswell as a snipit of what the world health organsiation is saying, so just a general overview. 
+Below is a breakdown of each page's features and content and wha thte user cna expect to us them for.
 
-The **advice page** will allow the user to learn proper methods of takinig caare of themselves inclduing washing hands and what to do and not to do in this pandemic. 
+The **landing page** allows the user to get to grips with the layout of the website and explains the different pages anf how they can be of use to the user. The idea is that this will help speed up the user experience especially for people who are not so comfortable with tech. Alos basic info on covid will be provided aswell as a snipit of what the world health organsiation is saying, so just a general overview. 
 
-The **support page** provdes two services. The frist is the user will be able to learn how to take care of vunerable memebrs of the community. The second will offer the user links to volunteering services and links to charities in need of support during the crisis.
+The **advice page** will allow the user to learn proper methods of taking care of themselves including washing hands and what to do and not to do in this pandemic. 
 
-The **contact info** provides links for helpline numbers and emails based on regions in Ireland aswell as the ability to write to the owners fot he website with any inquries or questions they have. 
+The **support page** provdes two services. The first is the user will be able to learn how to take care of vunerable members of the community. The second will offer the user links to volunteering services and links to charities in need of support during the crisis.
+
+The **contact info** provides links for helpline numbers and emails based on regions in Ireland aswell as the ability to write to the owners fot the website with any inquries or questions they have. 
 
 
 ## Structure
-The pages are have headers with large navbar text and are hover interactive to make it as clear as possible what your clicking and what pages are available. This is to make it user friendly to members of the community who may not be comfortable on computers as some, as I  feel at risk memebers of the community have a strong corrolation with the less tech savy memebers example the elderly. the footer is set up similarily. For this reason aswell clear directions on page such as on support and the banner in advice help users with in your face instructions and advice. 
+The pages have headers with large navbar text and are hover interactive to make it as clear as possible what your clicking and what pages are available. This is to make it user friendly to members of the community who may not be comfortable on computers as some, as I  feel at risk memebers of the community have a strong corrolation with the less tech savy memebers example the elderly.
+ The footer is set up similarily. For this reason aswell clear directions on page such as on support and the banner in advice help users with in your face instructions and advice. 
 
 ## Skeleton
-The original skelton changed over the coarse of the project, I've attached the original sketches of each of the pages and written what changed about them aswell.
+The original skelton changed over the coarse of the project. I've attached the original sketches of each of the pages and written what changed about them aswell.
 
 [Home-page](./assets/wireframes/landing-page.pdf) - This was just a drawing of what I wanted the user to see when the enter the website rather then the full content of the home page layout.
 
@@ -39,13 +43,14 @@ Used a calmer set of colours for this page primarily as I felt the topic was str
 ## features
 Collapsable menu on mobile for the navagation bar, just to decluter the view.
 
-Used an in-page nav for support page with two buttons as I needed to change form original plan for the page, as seen in the wireframes. Once put together on the fly it appeared less cluttered and was a bit less of an infomration-oveload for the user.
+Used an in-page nav for support page with two buttons as I needed to change from original plan for the page, as seen in the wireframes. Once put together on the fly it 
+appeared less cluttered and was a bit less of an infomration-oveload for the user.
 
 **Future features** we wanted to include: 
 
    **1)** a chat feature on contact info page to help users get in touch faster and have smooth communication with site owners. 
                                        
-   **2)** create a sepeate page with greater details no selected charites but time was too much of a constraint this time.
+   **2)** create a sepeate page with greater details on selected charites but time was too much of a constraint.
 
 
 ## Technologies
