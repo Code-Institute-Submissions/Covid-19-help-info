@@ -8,8 +8,12 @@
 A user would expect to find concise and clear instructions on what to do and what not to do during this pandemic to increase their safety.
 ![advice page](./assets/images/user-story-1.png)
 
-A user would want to be able to access helplines and email addresses for their region. example below is Connacht and Ulster.
+A user would want to be able to access helplines and email addresses for their region. part a is the page view on contact info and part b is the new tab which appears when sekected with the info. Example below is Connacht and Ulster.
+
+## a)
 ![contact-info page](./assets/images/user-story-2a.png)
+
+## b)
 ![connacht-ulster link content](./assets/images/user-story-2b.png)
 
  ## Strategy
