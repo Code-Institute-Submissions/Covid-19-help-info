@@ -56,6 +56,7 @@ Used an in-page nav for support page with two buttons as I needed to change form
 ## Testing
 Display, images and links worked fine on google chrome, internet explorer and mircrosoft edge. On firefox everything worked fine 99% of the time but in mobile version sometimes the collapsable navbar would glitch for a few seconds before opening 
 and I could not figure out the cause which was of great irritation to me.
+A notable issue when testing was the overflow horizontally in mobile view on all platforms. I solved this by adding "no-gutters" class to all rows that where wider then the body. 
 1) Apart from that all navigation tools in text or header worked on the fore-mentioned browsers in all viewing styles (mobile, Ipad and desktop).
 2) All links to other new tabs such as the HSE updates in the footer and helpline links worked correctly aswell. 
 3) Requirments for name and email in submition section worked aswell on all the ofre-mentioned.
