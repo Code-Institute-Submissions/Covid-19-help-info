@@ -1,582 +1,578 @@
 /*-------------------------------------------header*/
 
 header {
-	background-color: #F2AA4CFF;
+  background-color: #F2AA4CFF;
 }
 
 .logo {
-	height: 100px;
-	width: 100px;
-	border-radius: 50%;
-	margin: 10px 50px 10px 50px;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  margin: 10px 50px 10px 50px;
 }
 
 
 /*-------------------------------------------navbar*/
 
 #mobile-only {
-	display: none;
+  display: none;
 }
 
 .overall-nav ul {
-	text-align: left;
-	padding: 30px 0px 0px 0px;
-	margin-left: 30px;
+  text-align: left;
+  padding: 30px 0px 0px 0px;
+  margin-left: 30px;
 }
 
 .overall-nav li {
-	display: inline-block;
-	font-size: 40px;
-	padding-left: 20px;
-	padding-right: 30px;
+  display: inline-block;
+  font-size: 40px;
+  padding-left: 20px;
+  padding-right: 30px;
 }
 
 .overall-nav a {
-	color: #fafafa;
-	font-family: 'Josefin Sans', sans-serif;
-	padding: 10px 10px;
+  color: #fafafa;
+  font-family: 'Josefin Sans', sans-serif;
+  padding: 10px 10px;
 }
 
 .overall-nav .bubble-transition:hover {
-	background-color: #fafafa;
-	color: #F2AA4CFF;
-	text-decoration-line: none;
-	border-radius: 10px;
-	-o-transition: 0.3s;
-	-ms-transition: 0.3s;
-	-moz-transition: 0.3s;
-	-webkit-transition: 0.3s;
-	transition: 1s;
+  background-color: #fafafa;
+  color: #F2AA4CFF;
+  text-decoration-line: none;
+  border-radius: 10px;
+  -o-transition: 0.3s;
+  -ms-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -webkit-transition: 0.3s;
+  transition: 1s;
 }
 
 .overall-nav a:hover {
-	background-color: #fafafa;
-	color: #F2AA4CFF;
-	text-decoration-line: none;
+  background-color: #fafafa;
+  color: #F2AA4CFF;
+  text-decoration-line: none;
 }
 
 
 /*--------------------------------------------------margins, padding etc*/
 
 .home-margins {
-	margin-left: 25%;
-	margin-right: 25%;
-	text-align: center;
+  margin-left: 25%;
+  margin-right: 25%;
+  text-align: center;
 }
 
 .advice-margins {
-	margin-left: 5%;
-	margin-right: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 .margin-lists {
-	margin-bottom: 10%;
+  margin-bottom: 10%;
 }
 
 .question-margins {
-	margin: 0% 15%;
+  margin: 0% 15%;
 }
 
 .contact-info-lead {
-	margin: 5% 15% 5% 15%;
+  margin: 5% 15% 5% 15%;
 }
 
 .support-margins {
-	margin: 12% 10% 20% 10%;
+  margin: 12% 10% 20% 10%;
 }
 
 .helpline-margins {
-	margin-left: 10%;
+  margin-left: 10%;
 }
 
 .button-margins {
-	display: flex;
+  display: flex;
 }
 
 
 /*--------------------------------------------------common for all pages*/
 
 h1 {
-	text-transform: uppercase;
-	padding: 50px 0px;
-	font-family: 'Josefin Sans', sans-serif;
-	color: #F2AA4CFF;
-	text-decoration: underline;
-	font-weight: 800;
+  text-transform: uppercase;
+  padding: 50px 0px;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #F2AA4CFF;
+  text-decoration: underline;
+  font-weight: 800;
 }
 
 .top-border {
-	border-top: 3px solid #F2AA4CFF;
-	padding-top: 10px;
+  border-top: 3px solid #F2AA4CFF;
+  padding-top: 10px;
 }
 
 .key-words {
-	color: #F2AA4CFF;
-	font-weight: 600;
-	font-family: 'Josefin Sans', sans-serif;
+  color: #F2AA4CFF;
+  font-weight: 600;
+  font-family: 'Josefin Sans', sans-serif;
 }
 
 .info-ref {
-	font-size: 8px;
-	color: darkgray;
-	text-align: center;
+  font-size: 8px;
+  color: darkgray;
+  text-align: center;
 }
 
 
 /*--------------------------------------------------landing page content*/
 
 .home-margins p {
-	padding-bottom: 50px;
-	text-align: left;
+  padding-bottom: 50px;
+  text-align: left;
 }
 
 .home-margins ul {
-	text-align: left;
+  text-align: left;
 }
 
 .key-words {
-	color: #F2AA4CFF;
-	font-weight: 600;
-	font-family: 'Josefin Sans', sans-serif;
+  color: #F2AA4CFF;
+  font-weight: 600;
+  font-family: 'Josefin Sans', sans-serif;
 }
 
 #bottom-article {
-	padding-bottom: 100px;
+  padding-bottom: 100px;
 }
 
 #mobile-logo {
-	display: none;
+  display: none;
 }
 
 .nav-intext:hover {
-	color: #fafafa;
-	background-color: #F2AA4CFF;
-	text-decoration-line: none;
-	border-radius: 10px;
-	-o-transition: 0.3s;
-	-ms-transition: 0.3s;
-	-moz-transition: 0.3s;
-	-webkit-transition: 0.3s;
-	transition: 1s;
+  color: #F2AA4CFF;
+  text-decoration-line: underline;
+  transition: 1s;
 }
 
 
 /*--------------------------------------------------banner*/
 
 #banner {
-	text-align: center;
-	background-color: #f2eb26;
-	margin: 80px 0px;
-	padding-bottom: 10px;
-	border: 2px solid;
+  text-align: center;
+  background-color: #f2eb26;
+  margin: 80px 0px;
+  padding-bottom: 10px;
+  border: 2px solid;
 }
 
 .cacooning {
-	font-weight: 800;
-	font-family: 'Josefin Sans', sans-serif;
-	font-size: 30px;
+  font-weight: 800;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 30px;
 }
 
 #banner h1 {
-	padding-top: 10px;
-	padding-bottom: 10px;
-	color: black;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: black;
 }
 
 
 /*--------------------------------------------------images and instructions washing hands*/
 
 #washing-hands {
-	padding: 10px 100px;
+  padding: 10px 100px;
 }
 
 
 /*--------------------------------------------------Do's and Don'ts list*/
 
 .list-advice {
-	margin: 5% 0%;
+  margin: 5% 0%;
 }
 
 .list-advice li {
-	padding: 5px;
+  padding: 5px;
 }
 
 #icon-green {
-	background-color: rgb(39, 177, 39);
-	width: 50px;
-	height: 50px;
-	border-radius: 50%;
-	text-align: center;
-	padding: 10px 0px;
-	color: #fafafa;
+  background-color: rgb(39, 177, 39);
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  text-align: center;
+  padding: 10px 0px;
+  color: #fafafa;
 }
 
 #icon-red {
-	background-color: rgb(212, 52, 52);
-	width: 50px;
-	height: 50px;
-	border-radius: 50%;
-	text-align: center;
-	padding: 10px 0px;
-	color: #fafafa;
+  background-color: rgb(212, 52, 52);
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  text-align: center;
+  padding: 10px 0px;
+  color: #fafafa;
 }
 
 
 /*-------------------------------------------------Support Images*/
 
 .volunteer-images {
-	display: block;
-	margin: 0 auto;
+  display: block;
+  margin: 0 auto;
 }
 
 .charity-images {
-	margin: 0 auto;
-	max-height: 100px;
-	max-width: 100px;
+  margin: 0 auto;
+  max-height: 100px;
+  max-width: 100px;
 }
 
 
 /*-------------------------------------------------Support*/
 
 .support-links a {
-	color: #fafafa;
-	background-color: #F2AA4CFF;
-	border-radius: 10px;
-	text-align: center;
-	font-size: 2.2em;
-	font-weight: bolder;
-	margin: 110px 50px;
-	padding: 10px 10px;
-	font-family: 'Josefin Sans', sans-serif;
+  color: #fafafa;
+  background-color: #F2AA4CFF;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 2.2em;
+  font-weight: bolder;
+  margin: 110px 50px;
+  padding: 10px 10px;
+  font-family: 'Josefin Sans', sans-serif;
 }
 
 .support-links a:hover {
-	color: #F2AA4CFF;
-	background-color: white;
-	text-decoration-line: none;
-	font-size: 2.5em;
-	border-radius: 10px;
-	-o-transition: 0.3s;
-	-ms-transition: 0.3s;
-	-moz-transition: 0.3s;
-	-webkit-transition: 0.3s;
-	transition: 1s;
+  color: #F2AA4CFF;
+  background-color: white;
+  text-decoration-line: none;
+  border-radius: 10px;
+  border: 1px solid;
+  -o-transition: 0.3s;
+  -ms-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -webkit-transition: 0.3s;
+  transition: 0.5s;
 }
 
 .helping-others {
-	margin: 100px 40px;
+  margin: 100px 40px;
 }
 
 .helping-section {
-	min-height: 200px;
+  min-height: 200px;
 }
 
 .charity-links {
-	color: #F2AA4CFF;
-	font-weight: 600;
-	font-family: 'Josefin Sans', sans-serif;
-	padding: 5px 5px;
+  color: #F2AA4CFF;
+  font-weight: 600;
+  font-family: 'Josefin Sans', sans-serif;
+  padding: 5px 5px;
 }
 
 .charity-links:hover {
-	color: #fafafa;
-	background-color: #F2AA4CFF;
-	text-decoration-line: none;
-	border-radius: 10px;
-	-o-transition: 0.3s;
-	-ms-transition: 0.3s;
-	-moz-transition: 0.3s;
-	-webkit-transition: 0.3s;
-	transition: 1s;
+  color: #fafafa;
+  background-color: #F2AA4CFF;
+  text-decoration-line: none;
+  border-radius: 10px;
+  -o-transition: 0.3s;
+  -ms-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -webkit-transition: 0.3s;
+  transition: 1s;
 }
 
 .support-choices {
-    padding-bottom: 15%;
+  padding-bottom: 15%;
 }
+
 
 /*--------------------------------------------------Contact page and Button*/
 
 .center-header {
-	text-align: center;
+  text-align: center;
 }
 
 h1 .question-header {
-	padding: 10px 0px;
+  padding: 10px 0px;
 }
 
 #ireland-image {
-	height: 300px;
-	width: 300px;
-	background-size: contain;
+  height: 300px;
+  width: 300px;
+  background-size: contain;
 }
 
 .province-links {
-	margin-top: 40px;
+  margin-top: 40px;
 }
 
 #connacht a {
-	color: rgb(0, 102, 255);
-	font-weight: 600;
-	font-family: 'Josefin Sans', sans-serif;
-	padding: 5px 0px;
+  color: rgb(0, 102, 255);
+  font-weight: 600;
+  font-family: 'Josefin Sans', sans-serif;
+  padding: 5px 0px;
 }
 
 #connacht a:hover {
-	background-color: rgb(0, 102, 255);
-	color: #fafafa;
-	text-decoration-line: none;
-	border-radius: 10px;
-	-o-transition: 0.3s;
-	-ms-transition: 0.3s;
-	-moz-transition: 0.3s;
-	-webkit-transition: 0.3s;
-	transition: 1s;
+  background-color: rgb(0, 102, 255);
+  color: #fafafa;
+  text-decoration-line: none;
+  border-radius: 10px;
+  -o-transition: 0.3s;
+  -ms-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -webkit-transition: 0.3s;
+  transition: 1s;
 }
 
 #munster a {
-	color: rgb(255, 208, 0);
-	font-weight: 600;
-	font-family: 'Josefin Sans', sans-serif;
-	padding: 5px 0px;
+  color: rgb(255, 208, 0);
+  font-weight: 600;
+  font-family: 'Josefin Sans', sans-serif;
+  padding: 5px 0px;
 }
 
 #munster a:hover {
-	background-color: rgb(255, 208, 0);
-	color: #fafafa;
-	text-decoration-line: none;
-	border-radius: 10px;
-	-o-transition: 0.3s;
-	-ms-transition: 0.3s;
-	-moz-transition: 0.3s;
-	-webkit-transition: 0.3s;
-	transition: 1s;
+  background-color: rgb(255, 208, 0);
+  color: #fafafa;
+  text-decoration-line: none;
+  border-radius: 10px;
+  -o-transition: 0.3s;
+  -ms-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -webkit-transition: 0.3s;
+  transition: 1s;
 }
 
 #dublin a {
-	color: rgb(250, 102, 102);
-	font-weight: 600;
-	font-family: 'Josefin Sans', sans-serif;
-	padding: 5px 0px;
+  color: rgb(250, 102, 102);
+  font-weight: 600;
+  font-family: 'Josefin Sans', sans-serif;
+  padding: 5px 0px;
 }
 
 #dublin a:hover {
-	background-color: rgb(250, 102, 102);
-	color: #fafafa;
-	text-decoration-line: none;
-	border-radius: 10px;
-	-o-transition: 0.3s;
-	-ms-transition: 0.3s;
-	-moz-transition: 0.3s;
-	-webkit-transition: 0.3s;
-	transition: 1s;
+  background-color: rgb(250, 102, 102);
+  color: #fafafa;
+  text-decoration-line: none;
+  border-radius: 10px;
+  -o-transition: 0.3s;
+  -ms-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -webkit-transition: 0.3s;
+  transition: 1s;
 }
 
 #leinster a {
-	color: rgba(201, 33, 33, 0.719);
-	font-weight: 600;
-	font-family: 'Josefin Sans', sans-serif;
-	padding: 5px 0px;
+  color: rgba(201, 33, 33, 0.719);
+  font-weight: 600;
+  font-family: 'Josefin Sans', sans-serif;
+  padding: 5px 0px;
 }
 
 #leinster a:hover {
-	background-color: rgba(201, 33, 33, 0.719);
-	color: #fafafa;
-	text-decoration-line: none;
-	border-radius: 10px;
-	-o-transition: 0.3s;
-	-ms-transition: 0.3s;
-	-moz-transition: 0.3s;
-	-webkit-transition: 0.3s;
-	transition: 1s;
+  background-color: rgba(201, 33, 33, 0.719);
+  color: #fafafa;
+  text-decoration-line: none;
+  border-radius: 10px;
+  -o-transition: 0.3s;
+  -ms-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -webkit-transition: 0.3s;
+  transition: 1s;
 }
 
 .button-style {
-	background-color: #F2AA4CFF;
-	color: #fafafa;
-	font-family: 'Josefin Sans', sans-serif;
-	text-transform: uppercase;
-	border-radius: 10px;
-	padding: 5px 5px;
-	margin: 50px auto;
+  background-color: #F2AA4CFF;
+  color: #fafafa;
+  font-family: 'Josefin Sans', sans-serif;
+  text-transform: uppercase;
+  border-radius: 10px;
+  padding: 5px 5px;
+  margin: 50px auto;
 }
 
 .button-style:hover {
-	background-color: #fafafa;
-	color: #F2AA4CFF;
-	border-color: #F2AA4CFF;
-	text-decoration-line: none;
-	border-radius: 10px;
-	-o-transition: 0.3s;
-	-ms-transition: 0.3s;
-	-moz-transition: 0.3s;
-	-webkit-transition: 0.3s;
-	transition: 1s;
+  background-color: #fafafa;
+  color: #F2AA4CFF;
+  border-color: #F2AA4CFF;
+  text-decoration-line: none;
+  border-radius: 10px;
+  -o-transition: 0.3s;
+  -ms-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -webkit-transition: 0.3s;
+  transition: 1s;
 }
 
 .question-style {
-	margin-bottom: 5px;
+  margin-bottom: 5px;
 }
 
 .ireland-info {
-	font-family: 'Josefin Sans', sans-serif;
-	text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
 }
 
 
 /*--------------------------------------------------footer*/
 
 footer {
-	background-color: #F2AA4CFF;
-	min-height: 120px;
-	font-family: 'Josefin Sans', sans-serif;
-	color: #fafafa;
+  background-color: #F2AA4CFF;
+  min-height: 120px;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #fafafa;
 }
 
 footer h3 {
-	text-align: center;
-	margin-top: 60px;
+  text-align: center;
+  margin-top: 60px;
 }
 
 .reminder-message {
-	padding-bottom: 60px;
+  padding-bottom: 60px;
 }
 
 footer .footer-links {
-	color: #fafafa;
-	text-decoration: none;
-	margin-top: 60px;
-	padding: 20px 20px;
+  color: #fafafa;
+  text-decoration: none;
+  margin-top: 60px;
+  padding: 20px 20px;
 }
 
 .footer-links:hover {
-	background-color: #fafafa;
-	color: #F2AA4CFF;
-	text-decoration-line: none;
-	border-radius: 10px;
-	-o-transition: 0.3s;
-	-ms-transition: 0.3s;
-	-moz-transition: 0.3s;
-	-webkit-transition: 0.3s;
-	transition: 1s;
+  background-color: #fafafa;
+  color: #F2AA4CFF;
+  text-decoration-line: none;
+  border-radius: 10px;
+  -o-transition: 0.3s;
+  -ms-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -webkit-transition: 0.3s;
+  transition: 1s;
 }
 
 
 /*-----------------------------------------------header media changes*/
 
 @media screen and (max-width: 1050px) {
-	.overall-nav li {
-		font-size: 30px;
-		padding: 0% 2%;
-		text-align: center;
-	}
+  .overall-nav li {
+    font-size: 30px;
+    padding: 0% 2%;
+    text-align: center;
+  }
 }
 
 @media screen and (max-width: 777px) {
-	.logo {
-		display: none;
-	}
-	.overall-nav li {
-		font-size: 20px;
-		padding: 0% 2%;
-		text-align: center;
-	}
+  .logo {
+    display: none;
+  }
+  .overall-nav li {
+    font-size: 20px;
+    padding: 0% 2%;
+    text-align: center;
+  }
 }
 
 @media screen and (max-width: 489px) {
-	#mobile-only {
-		display: block;
-	}
-	.overall-nav li {
-		font-size: 15px;
-		display: flex;
-		flex-direction: column;
-		align-items: flex-start;
-	}
-	.first-nav ul {
-		display: none;
-	}
+  #mobile-only {
+    display: block;
+  }
+  .overall-nav li {
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .first-nav ul {
+    display: none;
+  }
 }
 
 
 /*--------------------------------------------------footer media changes*/
 
 @media screen and (max-width:489px) {
-	footer {
-		padding-bottom: 60px;
-	}
-	.reminder-message {
-		padding-bottom: 20px;
-	}
+  footer {
+    padding-bottom: 60px;
+  }
+  .reminder-message {
+    padding-bottom: 20px;
+  }
 }
 
 
 /*---------------------------------------------------home page */
 
 @media screen and (max-width: 1190px) {
-	.home-margins {
-		margin-left: 15%;
-		margin-right: 15%;
-		text-align: center;
-	}
+  .home-margins {
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: center;
+  }
 }
 
 @media screen and (max-width: 625px) {
-	.home-margins {
-		margin-left: 5px;
-		margin-right: 5px;
-		text-align: center;
-	}
+  .home-margins {
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: center;
+  }
 }
 
 @media screen and (max-width:489px) {
-	#mobile-logo {
-		display: block;
-		margin-left: auto;
-		margin-right: auto;
-		margin-top: 20px;
-	}
-	.home-margins p {
-		margin: 0px 20px;
-	}
+  #mobile-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+  }
+  .home-margins p {
+    margin: 0px 20px;
+    text-align: justify;
+  }
 }
 
 
 /*---------------------------------------------------advice page*/
 
 @media screen and (max-width: 678px) {
-	#banner {
-		margin: 5%;
-		background-color: #f2eb26;
-		color: black;
-	}
-	#banner h1 {
-		color: black;
-	}
+  #banner {
+    margin: 5%;
+    background-color: #f2eb26;
+    color: black;
+  }
+  #banner h1 {
+    color: black;
+  }
 }
 
 @media screen and (max-width:489px) {
-	#washing-hands {
-		padding: 10px 30px;
-	}
+  #washing-hands {
+    padding: 10px 30px;
+  }
 }
 
 
 /*---------------------------------------------------support page*/
 
 @media screen and (max-width:489px) {
-	.mobile-heading {
-		font-size: 20px;
-	}
+  .mobile-heading {
+    font-size: 20px;
+  }
 }
 
 
 /*---------------------------------------------------contact page*/
 
 @media screen and (max-width:992px) {
-	#ireland-image {
-		display: none;
-	}
-	.helpline-margins {
-		margin-left: 20%;
-	}
+  #ireland-image {
+    display: none;
+  }
+  .helpline-margins {
+    margin-left: 20%;
+  }
 }

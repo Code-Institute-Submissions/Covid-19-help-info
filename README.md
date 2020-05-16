@@ -11,15 +11,15 @@ To help inform the community about the dangers of covid-19, how to take care of 
 ## Scope 
 The **landing page** allows the user to get to grips with the layout of the website and explains the different pages and hat they are for to the user. I hope this will help speed up the user experience especially for people who are not so comfortable with tech. Alos basic info on covid will be provided aswell as a snipit of what the world health organsiation is saying, so just a general overview. 
 
-the **advice page** will allow the user to learn proper methods of takinig caare of themselves inclduing washing hands and what to do and not to do in this pandemic. 
+The **advice page** will allow the user to learn proper methods of takinig caare of themselves inclduing washing hands and what to do and not to do in this pandemic. 
 
-the **support page** provdes two services. The frist is the user will be able to learn how to take care of vunerable memebrs of the community. The second will offer the user links to volunteering services and links to charities in need of support during the crisis.
+The **support page** provdes two services. The frist is the user will be able to learn how to take care of vunerable memebrs of the community. The second will offer the user links to volunteering services and links to charities in need of support during the crisis.
 
-the **contact info** provides links for helpline numbers and emails based on regions in Ireland aswell as the ability to write to the owners fot he website with any inquries or questions they have. 
+The **contact info** provides links for helpline numbers and emails based on regions in Ireland aswell as the ability to write to the owners fot he website with any inquries or questions they have. 
 
 
 ## Structure
-the pages are have headers with large navbar text and are hover interactive to make it as clear as possible what your clicking and what pages are available. This is to make it user friendly to members of the community who may not be comfortable on computers as some as I  feel at risk memebers of the community has a strong corrolation with the less tech savy memebers example the elderly. the footer is set up similarily. For this reason aswell clear directions on page such as on support and the banner in advice help users with in your face instructions and advice. 
+The pages are have headers with large navbar text and are hover interactive to make it as clear as possible what your clicking and what pages are available. This is to make it user friendly to members of the community who may not be comfortable on computers as some as I  feel at risk memebers of the community has a strong corrolation with the less tech savy memebers example the elderly. the footer is set up similarily. For this reason aswell clear directions on page such as on support and the banner in advice help users with in your face instructions and advice. 
 
 ## Skeleton
 
@@ -55,10 +55,11 @@ Commit the project on gitpod with regular git pushes to github, the host website
 ## Credits
 Content
 1) All content in Basic Covid-19 info on Landing Page was taken from the European Centre for Disease Prevention and Control [here](https://www.ecdc.europa.eu/en/covid-19/questions-answers)
-2) All content for the "WHO said What?" section of the landing page was taken from the World Health Organisation [here] (https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen)
+2) All content for the "WHO said What?" section of the landing page was taken from the World Health Organisation [here](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen)
 3) Content on washing of hands on the advice page was taken from the HSE website [here](https://www2.hse.ie/wellbeing/how-to-wash-your-hands.html) 
 4) The info from the do's and don'ts list, the Helping loved ones and the contact info for Ireland was all taken form the community call out booklets physical copy.
 5) Info on Volunterring Ireland and image where taken from their website [here](https://www.volunteer.ie/)
+
 6)Info on all three charites were taken form their respective websites a) [Simon](https://www.simon.ie/AboutUs.aspx)
                                                                        b) [Irish-cancer-Society](https://www.cancer.ie/)
                                                                        c) [Bernardos](https://www.barnardos.ie/) 
