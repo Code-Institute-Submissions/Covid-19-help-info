@@ -1,12 +1,13 @@
    # Covid-19 Help and Info
+   ![Communtiy call out logo](./assets/images/community-call-booklet.png)
 
- This is a Covid-19 help website which is designed to present information on covid-19 to anybody concerned about what it is,
+ This is a Covid-19 help and info website which is designed to present information on covid-19 to anybody concerned aboutthe pandemic or
  looking for general advice on how to take care of themselves and others, options on how they can help and even who to contact for more info. 
  The general goal of the website is to increase the safety of the community at large by providing info in a simple and concise way from reputable sources. 
 
 
  ## Strategy
-To help inform the community about the dangers of covid-19, how to take care of themselves as well others and to generally keep people up to date on covid-19.  
+The strategy is to help inform the community about the dangers of covid-19, how to take care of themselves as well others and to generally keep people up to date on covid-19. 
 
 ## Scope 
 The **landing page** allows the user to get to grips with the layout of the website and explains the different pages and hat they are for to the user. I hope this will help speed up the user experience especially for people who are not so comfortable with tech. Alos basic info on covid will be provided aswell as a snipit of what the world health organsiation is saying, so just a general overview. 
@@ -19,9 +20,18 @@ The **contact info** provides links for helpline numbers and emails based on reg
 
 
 ## Structure
-The pages are have headers with large navbar text and are hover interactive to make it as clear as possible what your clicking and what pages are available. This is to make it user friendly to members of the community who may not be comfortable on computers as some as I  feel at risk memebers of the community has a strong corrolation with the less tech savy memebers example the elderly. the footer is set up similarily. For this reason aswell clear directions on page such as on support and the banner in advice help users with in your face instructions and advice. 
+The pages are have headers with large navbar text and are hover interactive to make it as clear as possible what your clicking and what pages are available. This is to make it user friendly to members of the community who may not be comfortable on computers as some, as I  feel at risk memebers of the community have a strong corrolation with the less tech savy memebers example the elderly. the footer is set up similarily. For this reason aswell clear directions on page such as on support and the banner in advice help users with in your face instructions and advice. 
 
 ## Skeleton
+The original skelton changed over the coarse of the project, I've attached the original sketches of each of the pages and written what changed about them aswell.
+
+[Home-page](./assets/wireframes/landing-page.pdf) - This was just a drawing of what I wanted the user to see when the enter the website rather then the full content of the home page layout.
+
+[Advice-page](./assets/wireframes/advice-page.pdf) - Some extra features where added to the advice page (washing hand advice) which changed the layout from originally planned.
+
+[Support-page](./assets/wireframes/support-volunteer.pdf) - This page had a complete changeup from the original plan as it had a cluttered layout. 
+
+[contact-info](./assets/wireframes/contact-info-page.pdf) - Slight adjustment from original plan with addition of Irish map image. 
 
 ## Surface
 Used a calmer set of colours for this page primarily as I felt the topic was stressful enough as is. A lot of white space in order to make it a little clearer for users. 
@@ -29,13 +39,14 @@ Used a calmer set of colours for this page primarily as I felt the topic was str
 ## features
 Collapsable menu on mobile for the navagation bar, just to decluter the view.
 
-Used a in-page nav for support page with two buttons as I needed to change form original plan for the page, as seen in the wireframes, as once put together it looked unmessy and was a bit of infomration-oveload for the user.
+Used an in-page nav for support page with two buttons as I needed to change form original plan for the page, as seen in the wireframes. Once put together on the fly it appeared less cluttered and was a bit less of an infomration-oveload for the user.
 
 **Future features** we wanted to include: 
 
-   **1)** a chat feature on contact info page to help users get in touch faster and have smooth                                                     communication with site owners. 
+   **1)** a chat feature on contact info page to help users get in touch faster and have smooth communication with site owners. 
                                        
-   **2)** create a sepeate page with greater details no selected charites but time was too much of a                                                constraint this time.
+   **2)** create a sepeate page with greater details no selected charites but time was too much of a constraint this time.
+
 
 ## Technologies
 1) html
@@ -43,14 +54,14 @@ Used a in-page nav for support page with two buttons as I needed to change form 
 3) Bootstrap 4.4.1
 
 ## Testing
-Display, iamges and links worked fine on google chrome, internet explorer and mircrosoft edge. On firefox everything worked fine 90% of the time but in mobile version sometime the collapsable navbar would glitch for a few seconds before opening 
+Display, images and links worked fine on google chrome, internet explorer and mircrosoft edge. On firefox everything worked fine 99% of the time but in mobile version sometimes the collapsable navbar would glitch for a few seconds before opening 
 and I could not figure out the cause which was of great irritation to me.
 1) Apart from that all navigation tools in text or header worked on the fore-mentioned browsers in all viewing styles (mobile, Ipad and desktop).
 2) All links to other new tabs such as the HSE updates in the footer and helpline links worked correctly aswell. 
-3) Requirments for name in submition section worked aswell. 
+3) Requirments for name and email in submition section worked aswell on all the ofre-mentioned.
 
 ## Deployment
-Commit the project on gitpod with regular git pushes to github, the host website. 
+Commit the project on gitpod with regular git pushes to github, the host website. Should be no difference form the deployment version or the development. 
 
 ## Credits
 Content
@@ -71,3 +82,10 @@ Content
 4) Irish Cancer Society image came from [here](https://www.cancer.ie/node/3225) 
 5) Bernardos image came from [here](https://iaia.ie/irelands-leading-childrens-charity-is-recruiting-barnardos-post-adoption-service/)
 6) Map of Ireland used came from [here](https://www.statista.com/chart/10372/support-in-ireland-for-staying-in-the-eu/)
+
+## Acknowledgements
+ 
+ * W3s school was leaned on heavily for helping put together this website especially the navbar and footer. A link to their website is [here](https://www.w3schools.com/default.asp) 
+ * Stack Overflow was also a tool used for info especially sorting out general bugs and gltiches throughout the project [here](https://stackoverflow.com/)
+ * bootrstrap was used aswell with code copied directly for the mobile collpase navbar. You can access that code [here](https://www.w3schools.com/bootstrap/bootstrap_navbar.asp)
+ * The idea for the project was inspired by the pamphlit for the community call out. 
