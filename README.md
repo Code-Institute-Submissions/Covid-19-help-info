@@ -16,9 +16,8 @@ the **advice page** will allow the user to learn proper methods of takinig caare
 the **support page** provdes two services. The frist is the user will be able to learn how to take care of vunerable memebrs of the community. The second will offer the user links to volunteering services and links to charities in need of support during the crisis.
 
 the **contact info** provides links for helpline numbers and emails based on regions in Ireland aswell as the ability to write to the owners fot he website with any inquries or questions they have. 
-future features we want to add include: 
-                                       1) a chat feature on contact info page to help users get in touch faster and have smooth                                                     communication with site owners. 
-                                       2) create a sepeate page with greater details no selected charites but time was too much of a                                                constraint this time.
+
+
 ## Structure
 the pages are have headers with large navbar text and are hover interactive to make it as clear as possible what your clicking and what pages are available. This is to make it user friendly to members of the community who may not be comfortable on computers as some as I  feel at risk memebers of the community has a strong corrolation with the less tech savy memebers example the elderly. the footer is set up similarily. For this reason aswell clear directions on page such as on support and the banner in advice help users with in your face instructions and advice. 
 
@@ -26,3 +25,17 @@ the pages are have headers with large navbar text and are hover interactive to m
 
 ## Surface
 Used a calmer set of colours for this page primarily as I felt the topic was stressful enough as is. A lot of white space in order to make it a little clearer for users. 
+
+## features
+Collapsable menu on mobile for the navagation bar, just to decluter the view.
+
+Used a in-page nav for support page with two buttons as I needed to change form original plan for the page, as seen in the wireframes, as once put together it looked unmessy and was a bit of infomration-oveload for the user.
+
+**Future features** we wanted to include: 
+
+   **1)** a chat feature on contact info page to help users get in touch faster and have smooth                                                     communication with site owners. 
+                                       
+   **2)** create a sepeate page with greater details no selected charites but time was too much of a                                                constraint this time.
+
+## Deployment
+Commit the project on gitpod with regular git pushes to github, the host website. 
