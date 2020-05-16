@@ -39,3 +39,8 @@ Used a in-page nav for support page with two buttons as I needed to change form 
 
 ## Deployment
 Commit the project on gitpod with regular git pushes to github, the host website. 
+
+##Credits
+[European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en/covid-19/questions-answers)
+https://www.kilkennychamber.ie/the-community-call-advice-and-contact-information-for-kilkenny/ - automatic!  
+
