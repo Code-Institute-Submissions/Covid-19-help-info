@@ -56,17 +56,17 @@ Commit the project on gitpod with regular git pushes to github, the host website
 Content
 1) All content in Basic Covid-19 info on Landing Page was taken from the European Centre for Disease Prevention and Control [here](https://www.ecdc.europa.eu/en/covid-19/questions-answers)
 2) All content for the "WHO said What?" section of the landing page was taken from the World Health Organisation [here] (https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen)
-3) Content on washing of hands on the advice page was taken from the HSE website [here] (https://www2.hse.ie/wellbeing/how-to-wash-your-hands.html) 
+3) Content on washing of hands on the advice page was taken from the HSE website [here](https://www2.hse.ie/wellbeing/how-to-wash-your-hands.html) 
 4) The info from the do's and don'ts list, the Helping loved ones and the contact info for Ireland was all taken form the community call out booklets physical copy.
-5) Info on Volunterring Ireland and image where taken from their website [here] (https://www.volunteer.ie/)
-6)Info on all three charites were taken form their respective websites a) [Simon] (https://www.simon.ie/AboutUs.aspx)
-                                                                       b) [Irish-cancer-Society] (https://www.cancer.ie/)
-                                                                       c) [Bernardos] (https://www.barnardos.ie/) 
+5) Info on Volunterring Ireland and image where taken from their website [here](https://www.volunteer.ie/)
+6)Info on all three charites were taken form their respective websites a) [Simon](https://www.simon.ie/AboutUs.aspx)
+                                                                       b) [Irish-cancer-Society](https://www.cancer.ie/)
+                                                                       c) [Bernardos](https://www.barnardos.ie/) 
 
 ## Media 
-1) Community call logo in the navbar came from [here] (https://www.kilkennychamber.ie/the-community-call-advice-and-contact-information-for-kilkenny/)
-2) Information for washing hand image came from [here] (http://www.cuh.hse.ie/Patients-Visitors/Infection-Prevention-Control/Hand-Hygiene/)
-3) Simon charity image came from [here] (https://www.icsa.ie/news/2018/mar/dublin-simon-recruiting-social-enterprise-supervisor/)
-4) Irish Cancer Society image came from [here] (https://www.cancer.ie/node/3225) 
-5) Bernardos image came from [here] (https://iaia.ie/irelands-leading-childrens-charity-is-recruiting-barnardos-post-adoption-service/)
-6) Map of Ireland used came from [herre] (https://www.statista.com/chart/10372/support-in-ireland-for-staying-in-the-eu/)
+1) Community call logo in the navbar came from [here](https://www.kilkennychamber.ie/the-community-call-advice-and-contact-information-for-kilkenny/)
+2) Information for washing hand image came from [here](http://www.cuh.hse.ie/Patients-Visitors/Infection-Prevention-Control/Hand-Hygiene/)
+3) Simon charity image came from [here](https://www.icsa.ie/news/2018/mar/dublin-simon-recruiting-social-enterprise-supervisor/)
+4) Irish Cancer Society image came from [here](https://www.cancer.ie/node/3225) 
+5) Bernardos image came from [here](https://iaia.ie/irelands-leading-childrens-charity-is-recruiting-barnardos-post-adoption-service/)
+6) Map of Ireland used came from [here](https://www.statista.com/chart/10372/support-in-ireland-for-staying-in-the-eu/)
